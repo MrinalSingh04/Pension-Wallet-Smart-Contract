@@ -18,7 +18,7 @@ Traditional retirement systems are rigid and lack transparency. This smart contr
 ## Features
 
 - Time-based vesting using `block.timestamp`
-- Admin-deposited funds, with dynamic top-ups
+- Admin-deposited funds, with dynamic top-ups 
 - Withdrawals only allowed when funds are vested or emergency unlock is triggered
 - Events emitted for all major state changes
 
