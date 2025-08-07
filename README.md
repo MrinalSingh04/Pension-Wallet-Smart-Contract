@@ -1,4 +1,4 @@
-# 💼 Pension Wallet Smart Contract (V25)
+# 💼 Pension Wallet Smart Contract 
 
 ## What
 
