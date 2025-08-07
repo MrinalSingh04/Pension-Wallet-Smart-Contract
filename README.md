@@ -6,7 +6,7 @@ The **PensionWallet.sol** smart contract is a long-term vesting wallet designed 
  
 However, if the beneficiary faces verified emergencies (e.g., job loss, medical condition), the contract allows early unlocking via DAO-style **emergency approval** (e.g., multisig or community governance).
 
-## Why
+## Why 
 
 Traditional retirement systems are rigid and lack transparency. This smart contract offers:
 
