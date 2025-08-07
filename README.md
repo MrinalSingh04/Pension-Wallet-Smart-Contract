@@ -3,7 +3,7 @@
 ## What
 
 The **PensionWallet.sol** smart contract is a long-term vesting wallet designed to manage retirement savings on-chain. It locks deposited funds for a specified number of years, allowing the beneficiary to withdraw vested portions over time.
-
+ 
 However, if the beneficiary faces verified emergencies (e.g., job loss, medical condition), the contract allows early unlocking via DAO-style **emergency approval** (e.g., multisig or community governance).
 
 ## Why
