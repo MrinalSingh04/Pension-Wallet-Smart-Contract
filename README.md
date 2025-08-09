@@ -9,7 +9,7 @@ However, if the beneficiary faces verified emergencies (e.g., job loss, medical 
 ## Why 
 
 Traditional retirement systems are rigid and lack transparency. This smart contract offers:
-
+ 
 - ✅ Transparent, tamper-proof long-term vesting
 - ⏳ Time-based release of funds (no early access unless approved)
 - 🛡️ Emergency flexibility via community/DAO
